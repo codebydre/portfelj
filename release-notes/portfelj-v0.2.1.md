@@ -1,0 +1,1 @@
+- Add missing transaction codes: automatic exercise (AEx), automatic FX conversion (AFx), margin violation (L)
