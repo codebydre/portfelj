@@ -1,2 +1,0 @@
-- Add D-IFI generator
-- Add option to override working directory via `-w` or `--working-directory`
