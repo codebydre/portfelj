@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [] - $RELEASE_DATE
+
+### Added
+
+- [Windows] Add automatic updates on Windows. Example: `portfelj software-update upgrade`
+
+### Fixed
+
+- [Windows] Fix issues with missing vcruntime140.dll
+
+## [0.3.0] - 2025-12-26
+
 ### Added
 
 - EDGAR: add company sector in the output when available
