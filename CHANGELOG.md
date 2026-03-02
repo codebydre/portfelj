@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.2] - 2026-03-02
+
+### Changed
+
+- Improve XML parsing performance
+
+
 ## [0.3.1] - 2025-12-28
 
 ### Added
@@ -16,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 - [Windows] Fix issues with missing vcruntime140.dll
+
 
 ## [0.3.0] - 2025-12-26
 
