@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="824" height="824" viewBox="100 100 824 824">
+  <!-- Portfelj logo: the app icon without the macOS grid margin and shadow. -->
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5873E0"/>
+      <stop offset="1" stop-color="#2D3F92"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.18"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="100" y="100" width="824" height="824" rx="186" fill="url(#background)"/>
+  <rect x="100" y="100" width="824" height="824" rx="186" fill="url(#sheen)"/>
+
+  <g transform="translate(-19 0)">
+    <path d="M352 302h208a150 150 0 0 1 0 300H352" fill="none" stroke="#FFFFFF" stroke-width="104" stroke-linejoin="round"/>
+    <rect x="300" y="250" width="104" height="530" rx="52" fill="#FFFFFF"/>
+    <rect x="452" y="398" width="176" height="44" rx="22" fill="#8FE3B8"/>
+    <rect x="452" y="466" width="116" height="44" rx="22" fill="#FFFFFF" fill-opacity="0.55"/>
+  </g>
+</svg>
