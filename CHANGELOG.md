@@ -7,6 +7,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.0] - 2026-10-19
+
+### Added
+
+- Add shell completions via `portfelj completions <SHELL>`, installed by Homebrew, deb, pkg and MSI installers
+- Add ability to download flex reports directly from IBKR (e.g: `portfelj flex web-service download 2026`)
+
+### Changed
+
+- Recognize all IBKR order types and the `LF` notes code; unknown order types and notes codes no longer prevent flex reports from loading
+
+### Removed
+
+- Breaking: remove `--xml-dir` parameter from `edavki` and `ledger` CLI commands. Default `flex` folder in the current directory is used instead.
+
+
 ## [0.4.0] - 2026-03-02
 
 ### Added
