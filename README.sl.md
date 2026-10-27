@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://portfelj.net/sl/">Spletna stran</a> ·
-  <a href="https://portfelj.net/sl/get-the-app">Namestitev</a> ·
+  <a href="https://portfelj.net/sl/get-the-app.html">Namestitev</a> ·
   <a href="https://github.com/codebydre/portfelj/releases">Izdaje</a> ·
   <a href="CHANGELOG.md">Dnevnik sprememb</a>
 </p>
@@ -67,16 +67,16 @@ portfelj edavki --tax-year 2026
 | Windows | Prenesite datoteko `.msi` z [Izdaj](https://github.com/codebydre/portfelj/releases) |
 | Ubuntu / Debian | Prenesite datoteko `.deb` z [Izdaj](https://github.com/codebydre/portfelj/releases) in zaženite `sudo dpkg -i portfelj_*.deb` |
 
-Podrobna navodila in preverjanje podpisa namestitvenih datotek najdete na [portfelj.net/sl/get-the-app](https://portfelj.net/sl/get-the-app).
+Podrobna navodila in preverjanje podpisa namestitvenih datotek najdete na [portfelj.net/sl/get-the-app](https://portfelj.net/sl/get-the-app.html).
 
 ## Dokumentacija
 
-- [Nastavitev flex poročil](https://portfelj.net/sl/flex-reports)
-- [Oddaja v eDavke](https://portfelj.net/sl/edavki)
-- [Korporacijska dejanja](https://portfelj.net/sl/corporate-actions)
-- [Prenosi](https://portfelj.net/sl/transfers)
-- [Aktivacija aplikacije](https://portfelj.net/sl/activate)
-- [Podpora](https://portfelj.net/sl/support)
+- [Nastavitev flex poročil](https://portfelj.net/sl/flex-reports.html)
+- [Oddaja v eDavke](https://portfelj.net/sl/edavki.html)
+- [Korporacijska dejanja](https://portfelj.net/sl/corporate-actions.html)
+- [Prenosi](https://portfelj.net/sl/trade-transfers.html)
+- [Aktivacija aplikacije](https://portfelj.net/sl/activate.html)
+- [Podpora](https://portfelj.net/sl/support.html)
 
 ## Licenca
 

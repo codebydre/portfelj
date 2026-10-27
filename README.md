@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://portfelj.net">Website</a> ·
-  <a href="https://portfelj.net/get-the-app">Install</a> ·
+  <a href="https://portfelj.net/get-the-app.html">Install</a> ·
   <a href="https://github.com/codebydre/portfelj/releases">Releases</a> ·
   <a href="CHANGELOG.md">Changelog</a>
 </p>
@@ -67,16 +67,16 @@ portfelj edavki --tax-year 2026
 | Windows | Download the `.msi` from [Releases](https://github.com/codebydre/portfelj/releases) |
 | Ubuntu / Debian | Download the `.deb` from [Releases](https://github.com/codebydre/portfelj/releases), then `sudo dpkg -i portfelj_*.deb` |
 
-See [portfelj.net/get-the-app](https://portfelj.net/get-the-app) for step-by-step instructions and how to verify installer signatures.
+See [portfelj.net/get-the-app](https://portfelj.net/get-the-app.html) for step-by-step instructions and how to verify installer signatures.
 
 ## Documentation
 
-- [Setting up flex reports](https://portfelj.net/flex-reports)
-- [Filing with eDavki](https://portfelj.net/edavki)
-- [Corporate actions](https://portfelj.net/corporate-actions)
-- [Transfers](https://portfelj.net/transfers)
-- [Activation](https://portfelj.net/activate)
-- [Support](https://portfelj.net/support)
+- [Setting up flex reports](https://portfelj.net/flex-reports.html)
+- [Filing with eDavki](https://portfelj.net/edavki.html)
+- [Corporate actions](https://portfelj.net/corporate-actions.html)
+- [Transfers](https://portfelj.net/trade-transfers.html)
+- [Activation](https://portfelj.net/activate.html)
+- [Support](https://portfelj.net/support.html)
 
 ## License
 
