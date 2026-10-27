@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.5.1] - 2026-10-27
+
+### Changed
+
+- End year-to-date flex reports on the last weekday, e.g. Friday when downloading over the weekend
+- Stop downloading flex reports once IBKR blocks the Flex Web Service token for 24 hours after too many failed attempts (error 1025)
+- Retry flex report downloads whenever IBKR asks to try again shortly, with requests spaced 6 seconds apart to stay within IBKR's limit of 10 requests per minute
+- Explain expired or invalid tokens and invalid query IDs when downloading flex reports
+
+
 ## [0.5.0] - 2026-10-19
 
 ### Added
